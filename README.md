@@ -5,4 +5,4 @@ My 100 days of code experience.Mainly related to security stuff.Hope I code dail
 inspectmacosxlaunchagentanddaemon.py
 A Simple Python Script That will give you the information about the  programs which launch on  startups, logins, and daemons programs that runs on Mac Os X
 
-`sudo python inspectmacosxlaunchagentanddaemon.py`
+`sudo python inspectmacosxlaunchagentanddaemon.py > dump.txt`
