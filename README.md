@@ -12,3 +12,11 @@ dumpenv.py
 A simple Python script that will print the environment variables on windows.
 
 `python dumpenv.py`
+
+# 12 feb 2022's code
+
+The following Obsfucated  technique is simple and extensively used by adversaries. Two built-in python libraries are used.
+Zlib
+Base64
+
+`python Obsfucated.py`
